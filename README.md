@@ -19,3 +19,4 @@ pvp plugin
 아직 능력은 개발중... 
 각종 오류와 버그 발생 가능성이 높으므로 사용시 주의 바람
 각종 오류및 버그는 https://github.com/users/boyboy0710/projects/4 에 적어주세요
+다운은 위에서 받으시면 
